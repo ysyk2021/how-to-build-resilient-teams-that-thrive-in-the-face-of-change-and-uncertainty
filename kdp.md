@@ -8,7 +8,7 @@ In this book, we will explore strategies for building resilient teams that can n
 
 Whether you're a team leader or a member of a team, this book has something to offer. By implementing the strategies outlined in this book, you can help your team become more resilient, adaptable, and successful in the face of change and uncertainty. Remember to prioritize effective communication and collaboration throughout the process to promote a culture of openness and engagement.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
