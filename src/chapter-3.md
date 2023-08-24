@@ -1,5 +1,3 @@
-Chapter 2: The Impact of Team Resilience on Organizational Success
-==================================================================
 
 Team resilience is critical for organizational success. In this chapter, we'll explore the impact of team resilience on organizational success, as well as the costs of ignoring it.
 

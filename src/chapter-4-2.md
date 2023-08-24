@@ -1,5 +1,3 @@
-Encouraging Constructive Feedback and Communication
-==============================================================================================
 
 Fostering psychological safety is critical for building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore how to encourage constructive feedback and communication to create a psychologically safe work environment.
 

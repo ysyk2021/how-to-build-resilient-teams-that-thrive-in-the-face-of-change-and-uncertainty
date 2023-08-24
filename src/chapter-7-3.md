@@ -1,5 +1,3 @@
-Measuring the Effectiveness of Team Resilience Strategies
-====================================================================================
 
 Implementing team resilience strategies is critical for building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore how to measure the effectiveness of team resilience strategies.
 

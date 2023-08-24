@@ -1,5 +1,3 @@
-Looking Ahead to the Future of Teams that Thrive in the Face of Change and Uncertainty
-====================================================================================================================
 
 As we move further into the future, the importance of building resilient teams that can thrive in the face of change and uncertainty will only continue to grow. In this chapter, we'll explore some potential future directions for building teams that are even more resilient.
 

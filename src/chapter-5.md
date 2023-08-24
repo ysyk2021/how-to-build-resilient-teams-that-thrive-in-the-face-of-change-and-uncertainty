@@ -1,5 +1,3 @@
-Chapter 4: Encouraging Collaboration and Adaptability
-=====================================================
 
 Collaboration and adaptability are key characteristics of resilient teams. In this chapter, we'll explore how to encourage these qualities within your team.
 
@@ -37,5 +35,4 @@ Leaders should prioritize creating an environment that encourages teamwork and c
 Regular team-building exercises and offsite retreats can also be effective ways to build trust and strengthen relationships within the team.
 
 By encouraging collaboration and adaptability, organizations can build strong, resilient teams that can thrive in the face of change and uncertainty.
-
 

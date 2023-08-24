@@ -1,5 +1,3 @@
-Promoting Respect and Inclusivity
-============================================================================
 
 Fostering psychological safety is critical for building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore how to promote respect and inclusivity to create a psychologically safe work environment.
 
@@ -45,5 +43,4 @@ Conclusion
 ----------
 
 Promoting respect and inclusivity is critical for fostering psychological safety and building resilient teams that can thrive in the face of change and uncertainty. By creating a culture of respect, emphasizing inclusivity, and addressing bias and discrimination, leaders can establish an environment where team members feel safe to take risks, express themselves openly, and share their ideas without fear of negative consequences.
-
 

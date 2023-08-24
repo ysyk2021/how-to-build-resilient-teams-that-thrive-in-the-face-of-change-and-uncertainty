@@ -1,5 +1,3 @@
-Chapter 6: Implementation
-=========================
 
 Implementing team resilience strategies is essential for building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore how to effectively implement team resilience strategies.
 

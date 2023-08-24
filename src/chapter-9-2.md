@@ -1,5 +1,3 @@
-Addressing New Challenges in Promoting Team Resilience
-====================================================================================
 
 As we continue to face new challenges and uncertainties, promoting team resilience will become increasingly important. In this chapter, we'll explore some potential challenges that organizations may face in building resilient teams, and how they can be addressed.
 

@@ -1,5 +1,3 @@
-Encouraging Flexibility and Adaptability
-===============================================================================================
 
 Encouraging flexibility and adaptability is a critical component of building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore how leaders can encourage flexibility and adaptability within their teams.
 
@@ -45,5 +43,4 @@ Conclusion
 ----------
 
 Encouraging flexibility and adaptability is essential for building resilient teams that can thrive in the face of change and uncertainty. By embracing change, providing training and development opportunities, encouraging open communication and collaboration, and supporting work-life balance, leaders can create a work environment where team members are equipped to handle whatever challenges come their way.
-
 

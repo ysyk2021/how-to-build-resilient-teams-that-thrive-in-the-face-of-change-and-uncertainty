@@ -1,5 +1,3 @@
-Prioritizing Physical and Mental Health
-================================================================================
 
 Employee wellness is a critical factor in building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore how to prioritize physical and mental health to support employee wellness.
 

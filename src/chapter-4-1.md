@@ -1,5 +1,3 @@
-Creating an Environment that Fosters Trust and Openness
-==================================================================================================
 
 Fostering psychological safety is critical for building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore how to create an environment that fosters trust and openness.
 
@@ -42,5 +40,4 @@ Supporting risk-taking and innovation is another key component of fostering psyc
 By supporting risk-taking and innovation, leaders can help create a work environment that encourages experimentation and learning, which can lead to innovation and growth.
 
 By fostering psychological safety, organizations can build strong, resilient teams that are better equipped to navigate any challenge or change that comes their way.
-
 

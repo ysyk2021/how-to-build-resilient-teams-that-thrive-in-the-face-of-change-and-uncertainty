@@ -1,5 +1,3 @@
-Overcoming Barriers to Effective Implementation
-==========================================================================
 
 Implementing team resilience strategies is critical for building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore some common barriers to effective implementation and how to overcome them.
 

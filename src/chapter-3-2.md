@@ -1,5 +1,3 @@
-The Costs of Ignoring Team Resilience
-=========================================================================================================
 
 Ignoring team resilience can have significant costs for organizations. In this chapter, we'll explore the risks and potential consequences of ignoring team resilience.
 

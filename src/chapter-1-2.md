@@ -1,5 +1,3 @@
-Overview of Resilience in Teams
-=============================================
 
 Resilience is the ability to bounce back from adversity, learn from challenges, and adapt to change. When it comes to teams, resilience is crucial for success, as teams that are able to navigate change and uncertainty with ease are better equipped to achieve their goals and thrive over the long term.
 

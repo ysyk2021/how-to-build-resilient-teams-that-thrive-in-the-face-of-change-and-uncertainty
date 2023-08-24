@@ -1,5 +1,3 @@
-Navigating Change and Uncertainty as a Team
-==================================================================================================
 
 Encouraging collaboration and adaptability is critical for building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore how to navigate change and uncertainty as a team by fostering collaboration and adaptability.
 
@@ -51,5 +49,4 @@ Conclusion
 ----------
 
 Encouraging collaboration and adaptability is essential for building resilient teams that can thrive in the face of change and uncertainty. By fostering collaboration, cultivating adaptability, embracing change, and building trust and psychological safety, leaders can create a work environment where team members feel valued, supported, and empowered to navigate any challenge that comes their way.
-
 

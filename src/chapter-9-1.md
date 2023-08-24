@@ -1,5 +1,3 @@
-Innovations in Building Team Resilience
-=====================================================================
 
 The field of team resilience is constantly evolving, and new innovations are emerging that can help organizations build even stronger and more resilient teams. In this chapter, we'll explore some future directions and innovations in building team resilience.
 

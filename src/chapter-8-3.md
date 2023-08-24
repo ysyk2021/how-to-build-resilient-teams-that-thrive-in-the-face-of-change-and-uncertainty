@@ -1,5 +1,3 @@
-Addressing Challenges and Setbacks
-=================================================================
 
 Leadership support is critical for building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore how leaders can address challenges and setbacks to support team resilience.
 

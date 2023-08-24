@@ -1,5 +1,3 @@
-Balancing Work and Personal Life
-=========================================================================
 
 Employee wellness is critical for building resilient teams that can thrive in the face of change and uncertainty. One essential aspect of employee wellness is balancing work and personal life. When employees are able to achieve this balance, they are more likely to be productive, engaged, and satisfied with their jobs.
 

@@ -1,5 +1,3 @@
-The Role of Leadership in Supporting Team Resilience
-===================================================================================
 
 Leadership support is essential for building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore the role of leadership in supporting team resilience.
 

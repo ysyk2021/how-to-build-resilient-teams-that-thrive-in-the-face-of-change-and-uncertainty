@@ -1,5 +1,3 @@
-What is Resilience in Teams?
-=====================================================================
 
 Resilience is the ability to bounce back from challenges and adversity. In the context of teams, resilience refers to the team's ability to adapt to change and uncertainty while maintaining productivity and morale. In this chapter, we will discuss what resilience means in teams.
 

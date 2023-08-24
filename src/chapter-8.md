@@ -1,5 +1,3 @@
-Chapter 7: Leadership Support
-=============================
 
 Leadership plays a critical role in supporting team resilience. In this chapter, we'll explore the importance of leadership support and provide practical strategies for leaders to help build resilient teams.
 

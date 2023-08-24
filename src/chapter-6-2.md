@@ -1,5 +1,3 @@
-Managing Stress and Promoting Self-Care
-================================================================================
 
 Employee wellness is a critical factor in building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore how to manage stress and promote self-care to support employee wellness.
 

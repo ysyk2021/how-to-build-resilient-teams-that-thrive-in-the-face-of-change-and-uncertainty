@@ -1,5 +1,3 @@
-Chapter 1: Defining Resilience in Teams
-=======================================
 
 Resilience is a critical characteristic for teams to possess in order to thrive in the face of change and uncertainty. In this chapter, we'll define what resilience in teams means and explore its benefits.
 

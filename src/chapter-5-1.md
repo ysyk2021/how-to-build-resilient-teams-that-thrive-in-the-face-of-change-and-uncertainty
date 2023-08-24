@@ -1,5 +1,3 @@
-Building Effective Communication and Problem-Solving Skills
-==================================================================================================================
 
 Encouraging collaboration and adaptability is critical for building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore how to build effective communication and problem-solving skills to foster collaboration and adaptability.
 

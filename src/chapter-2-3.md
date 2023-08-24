@@ -1,5 +1,3 @@
-Examples of Successful Team Resilience Strategies in Practice
-======================================================================================================
 
 Resilience is a critical trait for teams to possess, especially when faced with change and uncertainty. In this chapter, we will examine examples of successful team resilience strategies in practice.
 

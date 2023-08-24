@@ -1,5 +1,3 @@
-Understanding the Impact of Team Resilience on Organizational Success
-=========================================================================================================================================
 
 In this chapter, we'll explore the impact of team resilience on organizational success. We'll discuss how resilient teams can help organizations navigate change and uncertainty, improve productivity, reduce turnover, and increase employee engagement.
 

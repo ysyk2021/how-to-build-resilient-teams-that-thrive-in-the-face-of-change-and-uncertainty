@@ -1,5 +1,3 @@
-Implementing Team Resilience Strategies for Thriving in the Face of Change and Uncertainty
-=====================================================================================================================
 
 In this chapter, we'll explore how to implement team resilience strategies that help teams thrive in the face of change and uncertainty. We'll cover key steps for successful implementation and provide tips for overcoming common challenges.
 

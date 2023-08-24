@@ -1,5 +1,3 @@
-Chapter 3: Fostering Psychological Safety
-=========================================
 
 Psychological safety is a critical component of building resilient teams. In this chapter, we'll explore how to foster psychological safety within your team.
 

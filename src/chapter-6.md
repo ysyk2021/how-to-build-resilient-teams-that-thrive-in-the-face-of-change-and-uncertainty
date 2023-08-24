@@ -1,5 +1,3 @@
-Chapter 5: Supporting Employee Wellness
-=======================================
 
 Employee wellness is critical for building resilient teams. In this chapter, we'll explore how to support employee wellness within your team.
 

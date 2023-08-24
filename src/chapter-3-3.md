@@ -1,5 +1,3 @@
-The Risks to Employee Morale, Productivity, and Retention
-=============================================================================================================================
 
 Team resilience is essential for organizational success. In this chapter, we'll explore the risks that a lack of team resilience can pose to employee morale, productivity, and retention.
 

@@ -1,5 +1,3 @@
-Chapter 8: Future Directions
-============================
 
 As the business landscape continues to evolve, the need for resilient teams is only going to increase. In this chapter, we'll explore some possible future directions for building team resilience.
 

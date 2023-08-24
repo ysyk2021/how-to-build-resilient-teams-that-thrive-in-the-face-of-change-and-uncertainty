@@ -1,5 +1,3 @@
-Modeling Resilient Behaviors
-===========================================================
 
 Leadership support is essential for building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we'll explore the importance of modeling resilient behaviors as a leader.
 
@@ -38,5 +36,4 @@ Conclusion
 ----------
 
 Modeling resilient behaviors is essential for promoting team resilience. By demonstrating a positive attitude and outlook, emphasizing the importance of learning from failures and mistakes, and encouraging team members to take calculated risks, leaders can inspire their teams to be more adaptive and innovative in the face of change and uncertainty. Additionally, by providing support and resources to help team members build their own resilience, leaders can create a work environment where team members feel valued, supported, and empowered to navigate any challenge that comes their way.
-
 
