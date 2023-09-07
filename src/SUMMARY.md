@@ -38,3 +38,4 @@
   - [Looking ahead to the future of teams that thrive in the face of change and uncertainty](chapter-9-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
