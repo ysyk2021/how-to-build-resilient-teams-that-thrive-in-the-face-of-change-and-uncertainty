@@ -1,5 +1,4 @@
-Chapter: Balancing Work and Personal Life
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Finding a healthy balance between work and personal life is crucial for building resilient teams that thrive in the face of change and uncertainty. This chapter explores strategies and practices to help team members achieve a harmonious work-life balance.
 

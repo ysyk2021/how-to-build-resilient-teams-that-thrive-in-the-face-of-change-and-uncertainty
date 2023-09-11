@@ -1,5 +1,4 @@
-Chapter: Building Effective Communication and Problem-Solving Skills
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective communication and problem-solving skills are essential for building resilient teams that can thrive in the face of change and uncertainty. In this chapter, we will explore strategies and techniques to develop strong communication and problem-solving abilities within teams.
 

@@ -1,5 +1,4 @@
-Chapter: Measuring the Effectiveness of Team Resilience Strategies
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Measuring the effectiveness of team resilience strategies is essential for understanding their impact and making informed adjustments. In this chapter, we will explore various methods and metrics to assess the effectiveness of resilience strategies within teams. By evaluating their efforts, teams can continuously improve and build greater resilience in the face of change and uncertainty.
 

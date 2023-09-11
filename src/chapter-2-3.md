@@ -1,5 +1,4 @@
-Chapter: Examples of Successful Team Resilience Strategies in Practice
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-life examples of successful team resilience strategies in practice. These examples showcase how different teams have overcome challenges, adapted to change, and thrived in uncertain environments. By studying these strategies, we can gain insights into what contributes to team resilience and apply them to our own teams.
 

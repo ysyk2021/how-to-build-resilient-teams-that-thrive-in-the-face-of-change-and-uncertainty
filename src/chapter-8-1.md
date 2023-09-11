@@ -1,5 +1,4 @@
-Chapter: The Role of Leadership in Supporting Team Resilience
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Leadership plays a vital role in supporting team resilience, especially in the face of change and uncertainty. In this chapter, we will explore the key responsibilities and strategies that leaders can employ to foster a resilient team culture.
 

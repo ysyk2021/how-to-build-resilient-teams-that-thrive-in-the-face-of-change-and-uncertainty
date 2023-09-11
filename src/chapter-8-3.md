@@ -1,5 +1,4 @@
-Chapter: Addressing Challenges and Setbacks
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Challenges and setbacks are inevitable in the face of change and uncertainty. In this chapter, we will explore strategies for addressing challenges and setbacks to build resilient teams that can thrive even in the most difficult circumstances.
 

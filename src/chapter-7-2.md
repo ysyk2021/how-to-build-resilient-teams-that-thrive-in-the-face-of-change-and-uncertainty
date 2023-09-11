@@ -1,5 +1,4 @@
-Chapter: Overcoming Barriers to Effective Implementation
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing changes and adapting to uncertainty can be challenging for teams. In this chapter, we will explore strategies to overcome barriers that hinder effective implementation within resilient teams. By addressing these obstacles head-on, teams can navigate change and uncertainty successfully.
 

@@ -1,5 +1,4 @@
-Chapter: Prioritizing Physical and Mental Health
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Prioritizing physical and mental health is essential for building resilient teams that thrive in the face of change and uncertainty. This chapter explores strategies and practices to help team members prioritize their well-being, promoting resilience and high performance.
 

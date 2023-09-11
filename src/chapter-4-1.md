@@ -1,5 +1,4 @@
-Chapter: Creating an Environment that Fosters Trust and Openness
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 A trusting and open environment is essential for building resilient teams that thrive in the face of change and uncertainty. This chapter explores strategies and practices to create an environment that promotes trust, openness, and psychological safety within teams.
 

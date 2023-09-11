@@ -1,5 +1,4 @@
-Chapter: What is Resilience in Teams?
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Resilience is the ability to adapt and recover in the face of adversity, uncertainty, and change. In the context of teams, resilience refers to the collective capacity to overcome challenges, bounce back from setbacks, and thrive despite difficult circumstances. This chapter explores the key components of team resilience.
 

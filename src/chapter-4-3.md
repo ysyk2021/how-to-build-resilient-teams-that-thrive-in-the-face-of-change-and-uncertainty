@@ -1,5 +1,4 @@
-Chapter: Promoting Respect and Inclusivity
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Promoting respect and inclusivity is crucial for building resilient teams that thrive in the face of change and uncertainty. This chapter explores strategies and practices to foster a culture of respect, diversity, and inclusion within a team.
 

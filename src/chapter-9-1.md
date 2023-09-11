@@ -1,5 +1,4 @@
-Chapter: Innovations in Building Team Resilience
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Building team resilience is an ongoing process that requires continuous adaptation to meet the evolving challenges of change and uncertainty. In this chapter, we will explore innovative approaches and strategies for building team resilience that can enable organizations to thrive in dynamic environments.
 

@@ -1,5 +1,4 @@
-Chapter: Navigating Change and Uncertainty as a Team
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's dynamic world, change and uncertainty are inevitable. Resilient teams are not only able to cope with these challenges but also thrive in the face of them. In this chapter, we will explore strategies and practices for navigating change and uncertainty as a team.
 

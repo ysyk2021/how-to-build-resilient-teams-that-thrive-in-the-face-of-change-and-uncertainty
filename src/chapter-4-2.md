@@ -1,5 +1,4 @@
-Chapter: Encouraging Constructive Feedback and Communication
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Encouraging constructive feedback and communication is essential for building resilient teams that thrive in the face of change and uncertainty. This chapter explores strategies and practices to foster a culture of open and effective communication within a team.
 

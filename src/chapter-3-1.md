@@ -1,5 +1,4 @@
-Chapter: Understanding the Impact of Team Resilience on Organizational Success
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Team resilience plays a crucial role in determining the success and sustainability of organizations operating in an environment of change and uncertainty. In this chapter, we will explore the profound impact that team resilience can have on organizational success and why it should be a priority for every business.
 

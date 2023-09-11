@@ -1,5 +1,4 @@
-Chapter: The Benefits of Resilient Teams
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Resilient teams possess unique qualities and characteristics that contribute to their success in navigating change and uncertainty. In this chapter, we will explore the various benefits that resilient teams bring to organizations and individuals.
 

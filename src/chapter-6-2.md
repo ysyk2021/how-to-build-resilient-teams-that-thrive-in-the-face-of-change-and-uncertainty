@@ -1,5 +1,4 @@
-Chapter: Managing Stress and Promoting Self-Care
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the face of change and uncertainty, managing stress and prioritizing self-care are crucial for building resilient teams. This chapter explores strategies and practices to help team members effectively manage stress and promote their well-being.
 

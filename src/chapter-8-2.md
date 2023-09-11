@@ -1,5 +1,4 @@
-Chapter: Modeling Resilient Behaviors
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Resilience is not only a characteristic of teams but also a set of behaviors that can be intentionally cultivated. In this chapter, we will explore the importance of modeling resilient behaviors and how leaders can foster a culture of resilience within their teams.
 

@@ -1,5 +1,4 @@
-Chapter: Addressing New Challenges in Promoting Team Resilience
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As organizations continue to navigate an ever-changing landscape, new challenges arise that require innovative approaches to promoting team resilience. In this chapter, we will explore some of these new challenges and discuss strategies to address them effectively.
 

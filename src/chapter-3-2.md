@@ -1,5 +1,4 @@
-Chapter: The Costs of Ignoring Team Resilience
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Ignoring team resilience can have significant costs for organizations operating in an environment of change and uncertainty. In this chapter, we will explore the potential consequences of neglecting team resilience and discuss why it is crucial to prioritize its development.
 

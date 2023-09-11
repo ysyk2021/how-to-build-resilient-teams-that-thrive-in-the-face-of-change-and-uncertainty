@@ -1,5 +1,4 @@
-Chapter: The Risks to Employee Morale, Productivity, and Retention
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Teams face numerous risks to their morale, productivity, and retention in the face of change and uncertainty. In this chapter, we will explore these risks and discuss strategies for mitigating their impact.
 

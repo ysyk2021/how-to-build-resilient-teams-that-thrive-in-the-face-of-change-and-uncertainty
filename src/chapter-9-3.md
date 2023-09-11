@@ -1,5 +1,4 @@
-Chapter: Looking Ahead to the Future of Teams that Thrive in the Face of Change and Uncertainty
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we look ahead to the future, it is essential to consider how teams can continue to build resilience and thrive in an increasingly dynamic and uncertain world. In this chapter, we will explore emerging trends and strategies that will shape the future of teams and their ability to navigate change and uncertainty successfully.
 

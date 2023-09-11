@@ -1,5 +1,4 @@
-Chapter: Encouraging Flexibility and Adaptability
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In a world of constant change and uncertainty, flexibility and adaptability are crucial qualities for resilient teams. This chapter explores strategies and practices to encourage flexibility and adaptability within teams, enabling them to thrive in dynamic environments.
 
